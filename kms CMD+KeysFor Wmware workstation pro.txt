@@ -1,0 +1,39 @@
+slmgr /ipk W269N-WFGWX-YVC9B-4J6C9-T83GX       (10&11pro)         WNMTR-4C88C-JK8YV-HQ7T2-76DF9       (LTSB 2016)
+
+slmgr /skms kms.digiboy.ir
+
+slmgr /ato
+
+
+
+
+
+
+
+
+DISM /online /Get-TargetEditions
+dism /online /set-edition:ServerStandard /productkey:WC2BQ-8NRM3-FDDYY-2BFGV-KHKQY /accepteula   
+dism /online /set-edition:ServerDatacenter /productkey:CB7KF-BWN84-R7R2Y-793K2-8XDDG /accepteula
+dism /online /set-edition:EnterpiseS /productkey:DCPHK-NFMTC-H88MJ-PFHPY-QJ4BJ /accepteula
+
+WC2BQ-8NRM3-FDDYY-2BFGV-KHKQY (server2016standart)
+DCPHK-NFMTC-H88MJ-PFHPY-QJ4BJ (LTSB 2016)
+CB7KF-BWN84-R8R2Y-793K2-8XDDG (server2016datacenter)
+DPH2V-TTNVB-4X9Q3-TJR4H-KHJW4 (EnterpriseN)
+NG4HW-VH26C-733KW-K6F98-J8CK4 (8)
+GCRJD-8NW9H-F2CDX-CCM8D-9D6T9 (8.1)
+
+
+
+
+VMware keys pro 17 :
+
+4A4RR-813DK-M81A9-4U35H-06KND
+
+NZ4RR-FTK5H-H81C1-Q30QH-1V2LA
+
+JU090-6039P-08409-8J0QH-2YR7F
+
+4Y09U-AJK97-089Z0-A3054-83KLA
+
+4C21U-2KK9Q-M8130-4V2QH-CF810
